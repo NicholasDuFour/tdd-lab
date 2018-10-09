@@ -18,5 +18,9 @@
     "karma-chrome-launcher": "^0.2.0",
     "karma-jasmine": "^0.3.6",
     "karma-mocha-reporter": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimatch": "^3.0.4"
   }
 }
