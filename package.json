@@ -21,7 +21,7 @@
     "karma-mocha-reporter": "^2.2.1"
   },
   "dependencies": {
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "minimatch": "^3.0.4",
